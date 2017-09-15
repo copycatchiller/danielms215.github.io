@@ -1,6 +1,7 @@
 # main text of home
 name: Daniel Marcos
-bio: 'Product Manager + Software Engineer \n CS Student at Georgia Tech'
+bio: 'Product Manager + Software Engineer
+      CS Student at Georgia Tech'
 
 # if it's an external image, update below for true
 external-image: false
