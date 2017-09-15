@@ -1,6 +1,6 @@
 # main text of home
 name: Daniel Marcos
-bio: 'CS Student at Georgia Tech - Software Engineer'
+bio: 'CS Student at Georgia Tech - Product Manager - Software Engineer'
 
 # if it's an external image, update below for true
 external-image: false
@@ -51,7 +51,7 @@ width: normal
 #projects: true
 
 # if you don't need "about" or "blog", comment them out below
-about: true
+#about: true
 #blog: true
 
 # do you want to show the "read time" of the posts?
